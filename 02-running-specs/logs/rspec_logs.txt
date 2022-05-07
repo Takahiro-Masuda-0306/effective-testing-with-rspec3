@@ -6,3 +6,15 @@ example_id                                       | status  | run_time        |
 ./02-running-specs/07/spec/coffee_spec.rb[1:2:1] | passed  | 0.00027 seconds |
 ./02-running-specs/08/spec/coffee_spec.rb[1:1]   | unknown |                 |
 ./02-running-specs/08/spec/coffee_spec.rb[1:2:1] | passed  | 0.00028 seconds |
+./02-running-specs/09/spec/coffee_spec.rb[1:1]   | unknown |                 |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:1] | passed  | 0.00027 seconds |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:2] | pending | 0.00001 seconds |
+./02-running-specs/09/spec/coffee_spec.rb[1:2:3] | pending | 0 seconds       |
+./02-running-specs/10/spec/coffee_spec.rb[1:1]   | passed  | 0.00025 seconds |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:1] | passed  | 0.00008 seconds |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:2] | pending | 0.00007 seconds |
+./02-running-specs/10/spec/coffee_spec.rb[1:2:3] | pending | 0.00005 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:1]   | passed  | 0.00032 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:1] | passed  | 0.00008 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:2] | passed  | 0.00312 seconds |
+./02-running-specs/11/spec/coffee_spec.rb[1:2:3] | passed  | 0.00111 seconds |
